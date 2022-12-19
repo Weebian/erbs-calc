@@ -1,0 +1,6 @@
+{
+    "name": "erbscalc",
+    "version": "0.1",
+    "description": "Point calculator for erbs tourneys",
+    "main": "index.js"
+}
